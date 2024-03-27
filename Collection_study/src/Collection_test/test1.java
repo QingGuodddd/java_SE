@@ -18,7 +18,7 @@ public class test1 {
         coll.add(new Person("guo",24));
         coll.remove(d);
         System.out.println(coll);
-
+//6666666
         System.out.println(coll.contains("abcd"));
         System.out.println(coll.contains(new Person("guo", 24)));
 
