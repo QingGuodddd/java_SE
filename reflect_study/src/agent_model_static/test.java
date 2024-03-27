@@ -17,5 +17,6 @@ public class test {
         //执行代理
         ploxy.produceCloth();
         //
+        //1
     }
 }
